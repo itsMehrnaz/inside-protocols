@@ -1,0 +1,6 @@
+services:
+  snmp-agent:
+    image: polinux/snmpd
+    container_name: snmp-lab
+    ports:
+      - "161:161/udp"
