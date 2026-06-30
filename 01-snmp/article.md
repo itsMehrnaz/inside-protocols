@@ -211,4 +211,4 @@ In the next article, we'll implement a full SNMP GET request from scratch in Rus
 
 ---
 
-*All code and lab files for this series live at:* `github.com/<your-username>/inside-protocols`
+*All code and lab files for this series live at:* `github.com/itsMehrnaz/inside-protocols`
